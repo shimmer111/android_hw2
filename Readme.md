@@ -1,1 +1,17 @@
-My name is Van, I'm an artist, I'm a performance artist. I'm hired for people to fulfill their fantasies, their deep dark fantasies. I was gonna be a movie star y'know, modeling and acting. After a hundred and two additions and small parts I decided y'know I had enough, Then I got in to Escort world. The client requests contain a lot of fetishes, so I just decided to go y'know... full��Master��and change my entire house into a dungeon...��Dungeon��Master��now with a full dungeon in my house and It's going really well. Fisting is 300 bucks and usually the guy is pretty much hard on pop to get really relaxed y'know and I have this long latex glove that goes all the way up to my armpit and then I put on a surgical latex glove up to my wrist and just lube it up and it's a long process y'know to get your whole arm up there but it's an intense feeling for the other person I think for myself too, you go in places that even though it's physical with your hand but for some reason it's also more emotional it's more psychological too and we both get you know to the same place it's really strange at the same time and I find sessions like that really exhausting. I don't know I feel kinda naked because I am looking at myself for the first time, well not myself but this aspect of my life for the first time and it's been harsh... three to five years already? I never thought about it... Kinda sad I feel kinda sad right now, I don't know why��
+# chapter1
+Android基础UI开发
+
+* app:课堂代码
+* homework:课后作业
+* homework-debug.apk 是课后作业的示例，
+(可以使用adb install -t homework-debug.apk 进行安装)
+
+* Android基础UI开发.pdf 是随堂课件
+
+## UI的标注资源 请参考这里：
+
+https://app.zeplin.io/project/5c402caf0c6b0938570c4953/screen/5c402eaf5838d5bff1178c68
+
+* 账号：397717749@qq.com
+* 密码：123456
+
